@@ -1,2 +1,6 @@
 Hello this is a inst file
+<<<<<<< HEAD
 tests 
+=======
+Edit 
+>>>>>>> f8ebcce8aad8f004104d9fc2cc866805e2c103ae
